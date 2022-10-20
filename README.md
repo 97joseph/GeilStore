@@ -27,6 +27,18 @@ Product Screens
     <td>First Screen Page</td>
      <td>Holiday Mention</td>
      <td>Present day in purple and selected day in pink</td>
+   <td>Holiday Mention</td>
+   <td>Holiday Mention</td>
+   <td>Holiday Mention</td>
+   <td>Holiday Mention</td>
+   <td>Holiday Mention</td>
+   <td>Holiday Mention</td>
+   <td>Holiday Mention</td>
+   <td>Holiday Mention</td>
+   <td>Holiday Mention</td>
+   <td>Holiday Mention</td>
+   <td>Holiday Mention</td>
+   
   </tr>
   <tr>
    <td valign="top"><img src=" ![Screenshot_20221020-091804 (1)](https://user-images.githubusercontent.com/33089347/196873574-483cbeb5-6454-4495-87c5-97d9bf8af071.png)"></td>
